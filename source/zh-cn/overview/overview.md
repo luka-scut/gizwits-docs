@@ -219,8 +219,8 @@ GAgent主要的作用是数据转发，是设备数据、机智云、应用端�
  - [实时大数据使用说明](http://docs.gizwits.com/zh-cn/UserManual/rtbd.html)
  - [全球部署方案](http://docs.gizwits.com/zh-cn/UserManual/WorldWideConnectSolution.html)
 
- # 视频教学
- 机智云自助开发平台接入-2018-中文版
+ # 视频教学hgf
+ 机智云自助开发平台接入-2018-中文版h'g'f
  https://v.qq.com/x/page/o0758i68nqc.html
 
  其他视频教学
